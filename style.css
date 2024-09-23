@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(121, 165, 219);
+}
+
+h1{
+    text-align: center;
+    color: black;
+}
+
+input{
+    width: 400px;
+    font-size: 22px;
+    margin: 10px auto;
+    display: block;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+button{
+    width: 120px;
+    font-size: 22px;
+    margin: 10px auto;
+    display: block;
+}
+
+
+img{
+    width: 200px;
+    height: 250px;
+    margin: 10px;
+}
+
+#list{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+figure{
+    border: 2px solid black;
+}
+
+h2{
+    text-align: center;
+    font-size: 22px;
+    font-family: monospace;
+}
+button{
+    border-radius: 15px;
+    padding: 10px;
+    background-color: lightcoral;
+
+}
